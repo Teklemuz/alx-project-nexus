@@ -25,7 +25,7 @@ This repository documents my major learnings from the ProDev Frontend Engineerin
 
 ## Important Frontend Development Concepts
 - **Progressive Web Apps (PWA)**: Developing web apps that behave like native mobile apps, including offline capabilities and push notifications.
-- **State Management**: Using tools like Redux, React Context, and others to handle state in complex applications.
+- **State Management**: Using tools like UseState, UseEffect, Redux, React Context, and others to handle state in complex applications.
 - **Responsive Web Design**: Ensuring websites are mobile-friendly by adjusting layouts and content according to screen sizes.
 
 ## Challenges Faced and Solutions Implemented
